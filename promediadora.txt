@@ -1,0 +1,18 @@
+Algoritmo promedio_3_notas
+	//autor:
+	//fech:
+	//proposito calcular el promedio de 3 notas
+	//difinir vareables
+	Definir cal1,cal2,cal3 Como entero;
+	Definir promedio Como Real
+	Escribir "dame primera calificacion";
+	leer cal1;
+	Escribir "dame segunda calificacion";
+	leer cal2;
+	Escribir "dame tercera calificacion";
+	leer cal3;
+	promedio = (cal1+cal2+cal3)/3;
+	Escribir "promedio =",promedio;
+	
+FinAlgoritmo
+	
